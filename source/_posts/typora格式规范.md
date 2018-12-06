@@ -4,9 +4,9 @@ date: 2018-12-03 21:45:30
 tags: [工具, typora, 规范]
 ---
 
-[TOC]
-
 由于Typora和Hexo 某些方面格式的不兼容性，以及对日后的笔记记录做一些规范，以备日后查询
+
+<!--more-->
 
 ### 不兼容性
 
@@ -21,6 +21,16 @@ tags: [工具, typora, 规范]
 4、如果列表内容需要缩进的效果，则**选择无序列表的搭配**
 
 5、如果内容适中，且不需要其他格式的参与，则**选择有序列表的搭配**
+
+#### 图片
+
+由于本地图片无法上传到博客上，所以需要搭配图床来实现，typora 用ipic这个工具来实现，在这里我们采取自动上传的模式。
+
+- 首先打开typora的perference,进入编辑器模式，勾选红色框图中的内容
+
+![屏幕快照 2018-12-05 下午12.55.48](https://ws1.sinaimg.cn/large/006tNbRwly1fxvs3m3bxwj30sm0siamd.jpg)
+
+- 接着打开 Typora 中的「Edit - Image Tools - Upload Local Images via iPic」选项，在 Typora 中插入本地图片时，iPic 会自动将图片上传图床并使用 Markdown 语法替换文内地址。![屏幕快照 2018-12-05 下午12.58.00](https://ws4.sinaimg.cn/large/006tNbRwly1fxvs5syu1oj31180u0b29.jpg)
 
 ### 规范
 
