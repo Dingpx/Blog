@@ -6,9 +6,9 @@ date: 2018-12-04 08:07:46
 tags: [论文, CV, IJCAI2018, 人体骨架检测, 论文赏析]
 ---
 
-<!--more-->
-
 code: https://github.com/huguyuehuhu/HCN-pytorch
+
+<!--more-->
 
 ### 摘要
 
